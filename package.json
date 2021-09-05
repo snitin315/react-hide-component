@@ -6,6 +6,9 @@
   "scripts": {
     "test": "npm run test"
   },
+  "engines": {
+    "node": ">=12.13.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/snitin315/react-hide-component.git"
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/snitin315/react-hide-component/issues"
   },
-  "homepage": "https://github.com/snitin315/react-hide-component#readme"
+  "homepage": "https://github.com/snitin315/react-hide-component#readme",
+  "dependencies": {
+    "styled-system": "^5.1.5"
+  }
 }

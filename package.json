@@ -1,0 +1,19 @@
+{
+  "name": "react-hide-component",
+  "version": "1.0.0",
+  "description": "Hide your react component on different screen sizes",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snitin315/react-hide-component.git"
+  },
+  "author": "Nitin Kumar <snitin315@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snitin315/react-hide-component/issues"
+  },
+  "homepage": "https://github.com/snitin315/react-hide-component#readme"
+}
